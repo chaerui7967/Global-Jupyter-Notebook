@@ -1,5 +1,8 @@
 # Global-Jupyter-Notebook
 
+## pip Settings
+`pip install -r requirements/*`
+
 ## 1. Jupyter notebook docker Setting
 
 ```
